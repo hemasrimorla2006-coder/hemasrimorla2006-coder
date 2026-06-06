@@ -62,13 +62,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
 
 
-![Hemasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemasrimorla2006-coder&show_icons=true&theme=radical)
+![Hemasri's GitHub Status](https://github-readme-stats.vercel.app/api?username=hemasrimorla2006-coder&show_icons=true&theme=radical)
 
 
 
